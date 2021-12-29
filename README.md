@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Dan Douglas  👋</h1>
+<h1>Dan Douglas | FinTech | Angular</h1>
 
 I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Angular and Ionic.
 
