@@ -1,6 +1,8 @@
-### Hi there, I'm Dan Douglas  👋
+<h1>Hi there, I'm Dan Douglas  👋</h1>
 
 I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Angular and Ionic.
+
+⚡ Fun fact: I used to be a survival instructor for the Royal Navy and once taught Sir Lenny Henry how to survive for his round the World yacht trip.
 
 <!--
 **dandouglas/dandouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
