@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandouglas&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandouglas&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandouglas&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandouglas&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandouglas&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dandouglas&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandouglas&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandouglas&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandouglas&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dandouglas&theme=dracula)
