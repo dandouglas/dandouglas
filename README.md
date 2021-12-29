@@ -52,3 +52,6 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandouglas&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandouglas&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dandouglas&theme=dracula)
+
+
+![Profile views](https://gpvc.arturio.dev/dandouglas)
