@@ -1,4 +1,4 @@
-<h1>Dan Douglas<h1>
+<h1>Dan Douglas</h1>
 
 I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Angular and Ionic.
 I love the challenge of architecting large complex code-bases.
