@@ -1,6 +1,6 @@
 <h1>Dan Douglas</h1>
 
-I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Angular and Ionic.
+I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Mobile App Development.
 I love the challenge of architecting large complex code-bases.
 
 ⚡ Fun fact: I used to be a survival instructor for the Royal Navy and once taught Sir Lenny Henry how to survive for his round the World yacht trip.
