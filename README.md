@@ -1,7 +1,6 @@
 <h1>Dan Douglas</h1>
 
-I am a Senior Engineer at a FinTech startup called [KodyPay](https://kodypay.com) and specialise in Mobile App Development.
-I love the challenge of architecting large complex code-bases.
+I am a Director of Software Engineering at Fintech startup called [Kody](https://kody.com) and specialise in frontend and mobile app development.
 
 ⚡ Fun fact: I am an ok guitar player but a much better chilli grower!
 
