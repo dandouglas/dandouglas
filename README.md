@@ -25,3 +25,10 @@ I'm a Director of Software Engineering with a passion for building innovative we
 - Google Analytics
 - Jira
 - Figma
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dandouglas&theme=dracula)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dandouglas&theme=dracula)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dandouglas&theme=dracula)-->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dandouglas&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dandouglas&theme=dracula)
